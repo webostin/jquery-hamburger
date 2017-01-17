@@ -16,6 +16,6 @@ menuId points the element which will be changed to visible after clicking hambur
 
 ## possible options
 
-* menuToggleElement:
-	** default:  ".menu-hamburger"
-	** description:  point the hamburger element (if you change origin css elements)
+### menuToggleElement:
+	* default:  ".menu-hamburger"
+	* description:  point the hamburger element (if you change origin css elements)
