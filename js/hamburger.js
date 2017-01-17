@@ -6,9 +6,6 @@ $.fn.hamburger = function(options) {
         menuToggleElement: ".menu-hamburger",
     }, options );
 
-    console.log($menu);
-
-
     $(settings.menuToggleElement).click(function(){
         if($(this).hasClass('opened')){
             $(this).removeClass('opened');
